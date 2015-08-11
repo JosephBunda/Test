@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/OData/OData.iml" filepath="$PROJECT_DIR$/OData/OData.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Test.iml" filepath="$PROJECT_DIR$/.idea/Test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Test/test.iml" filepath="$PROJECT_DIR$/Test/test.iml" />
     </modules>
   </component>
 </project>

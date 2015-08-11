@@ -28,7 +28,7 @@ public class GitHubProvider extends AbstractOauth2Provider {
 
     @Override
     public String getRedirectUri () {
-        return "https://flo.manywho.com/api/run/1/oauth2";
+        return "https://flow.manywho.com/api/run/1/oauth2";
     }
 
 
